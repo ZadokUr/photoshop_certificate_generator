@@ -1,0 +1,102 @@
+[
+	{
+		"name": "Brayden Hall",
+		"gender": "his",
+		"capacity": "Master of Unity"
+	},
+	{
+		"name": "Zach Barker",
+		"gender": "his",
+		"capacity": "Duke of Universe"
+	},
+	{
+		"name": "Roman Gordon",
+		"gender": "his",
+		"capacity": "Cardinal of the Stars"
+	},
+	{
+		"name": "Zack Mitchell",
+		"gender": "his",
+		"capacity": "Delegate of Defense"
+	},
+	{
+		"name": "Zach Elliott",
+		"gender": "his",
+		"capacity": "Patriarch of Farming"
+	},
+	{
+		"name": "Oakley Cunningham",
+		"gender": "his",
+		"capacity": "Delegate of Mining"
+	},
+	{
+		"name": "Austin Harris",
+		"gender": "his",
+		"capacity": "Sir of Silver"
+	},
+	{
+		"name": "Khalid Wood",
+		"gender": "his",
+		"capacity": "Watcher of the Sun"
+	},
+	{
+		"name": "Jaden Thompson",
+		"gender": "his",
+		"capacity": "Doctor of Candor"
+	},
+	{
+		"name": "Wilfred Watts",
+		"gender": "his",
+		"capacity": "Magi of the Light"
+	},
+	{
+		"name": "Mia Henderson",
+		"gender": "her",
+		"capacity": "Corporal of Peace"
+	},
+	{
+		"name": "Mila Thomas",
+		"gender": "her",
+		"capacity": "Eminence of Ice"
+	},
+	{
+		"name": "Scarlet Roberts",
+		"gender": "her",
+		"capacity": "Caesar of Iron"
+	},
+	{
+		"name": "Anaya Jordan",
+		"gender": "her",
+		"capacity": "Delegate of Commerce"
+	},
+	{
+		"name": "Audrey Ross",
+		"gender": "her",
+		"capacity": "Patriarch of Mining"
+	},
+	{
+		"name": "Caitlin Marsh",
+		"gender": "her",
+		"capacity": "Secretary of the Future"
+	},
+	{
+		"name": "Beatrice Sharp",
+		"gender": "her",
+		"capacity": "Governor of Armor"
+	},
+	{
+		"name": "Florence Morris",
+		"gender": "her",
+		"capacity": "Magi of Stars"
+	},
+	{
+		"name": "Amelie Williamson",
+		"gender": "her",
+		"capacity": "Rabbi of Sanctity"
+	},
+	{
+		"name": "Arya Evans",
+		"gender": "her",
+		"capacity": "Nun of the Voice"
+	}
+]
